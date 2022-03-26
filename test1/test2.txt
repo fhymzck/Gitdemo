@@ -1,6 +1,6 @@
 dddddd
 ´ò¿¨¿¨nextval currval
-#set java envrionment
+#set java envrionment            alter user scott account unlock
 JAVA_HOME=jdkÂ·¾¶
 CLASSPATH=.:$JAVA_HOME/lib.tools.jar
 PATH=$JAVA_HOME/bin
@@ -8,5 +8,5 @@ export JAVA_HOME CLASSPATH PATH
 :wq!
 source profile
 java -version
-
+primary key defaul unique not null
 name sex age 
