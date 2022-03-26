@@ -10,3 +10,7 @@ source profile
 java -version
 primary key defaul unique not null
 name sex age     int numble text varchar time year date
+create table test1(
+  id int primary key,
+  name varchar(50)
+)
